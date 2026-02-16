@@ -45,9 +45,9 @@ This project was developed to demonstrate:
 ## 📸 Screenshots:
 ![Home screen](screenshots/home_screen.png)
 ![Camera verification](screenshots/camera_verification.png)
-![NFC scan](reenshots/nfc_scan.png)
+![NFC scan](screenshots/nfc_scan.png)
 ![Age verification](screenshots/demo.png)
-![Payment success](creenshots/payment_success.png)
+![Payment success](screenshots/payment_success.png)
 ![Payment failed](screenshots/age_restricted.png)
 ![Restricted product](screenshots/restricted_product.png)
 
