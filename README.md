@@ -49,12 +49,12 @@ This project was developed to demonstrate:
 ![Age verification](screenshots/demo.png)
 ![Payment success](creenshots/payment_success.png)
 ![Payment failed](screenshots/age_restricted.png)
-![Restricted product](creenshots/restricted_product.png)
+![Restricted product](screenshots/restricted_product.png)
 
 ---
 
 ## ⚙️ Installation:
-git clone https://github.com/yourname/ai-age-verification-pos.git
+git clone https://github.com/tamim-dev-it/ai-pos-system.git
 cd ai-age-verification-pos
 pip install -r requirements.txt
 python main.py
